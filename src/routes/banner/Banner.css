@@ -1,0 +1,88 @@
+.banner__subtitle{
+    padding-top: 100px;
+    width: 570px;
+    display: flex;
+    flex-direction: column;
+    gap: 32px;
+}
+.title__style{
+    font-size: 64px;
+    font-weight: 700;
+    line-height: 64px;
+    text-align: left;
+}
+.banner__text{
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 22px;
+    text-align: left;
+    color: #000;
+    opacity: 40%;   
+}   
+.banner{
+    background-color: #F2F0F1;
+}
+.btn{
+    width: 210px;
+    height: 52px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    border-radius: 62px;
+
+    font-size: 16px;
+    font-weight: 500;
+    line-height: 21.6px;
+    text-align: left;
+    color: #fff;
+    background-color: #000000;
+}
+.degree__number{
+    font-size: 40px;
+    font-weight: 700;
+    line-height: 54px;
+    text-align: left;
+}
+.degree__string{
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 22px;
+    text-align: left;
+    color: #000;
+    opacity: 60%;
+}
+.banner__title{
+    display: flex;
+    flex-direction: column;
+    gap: 48px;
+    position: absolute;
+    left: 140px;
+}
+.banner__degree{
+    display: flex;
+    gap:64px;
+    margin-bottom: 100px;
+}
+.banner__wraper{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.hero__img{
+    position: relative;
+}
+.content{
+    width: 100%;
+    background-color: #000000;
+    padding: 44px;
+    
+}
+.content__wrapper{
+    display: flex;
+    gap: 100px;
+}
+.hero__img__style{
+    object-fit: cover;
+    height: 663px;
+
+}

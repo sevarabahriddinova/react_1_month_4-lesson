@@ -1,0 +1,22 @@
+ *{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+ .container{
+    font-family: "Inter", sans-serif;
+    width: 100%;
+    margin: 0 auto;
+    width: 1240px;
+    /* background-color: red; */
+ }
+ .arrivals__title__style{
+   font-size: 48px;
+   font-weight: 700;
+   line-height: 57.6px;
+   text-align: center;  
+ }
+
+.arrivals{
+   padding-top: 72px;
+}

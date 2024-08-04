@@ -1,0 +1,59 @@
+.list__style{
+    font-family: Satoshi;
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 21.6px;
+    text-align: left;   
+    color: hsl(0, 0%, 0%);
+    text-decoration: none;
+}
+.list__title{
+    list-style: none;    
+}
+.nav__list{
+    display: flex;
+    gap:24px;  
+    align-items: center; 
+}
+.nav__title{
+    display: flex;
+    gap: 40px;
+    align-items: center;
+}
+.poisk__wrapper{
+    width: 100%;
+    max-width:577px;
+    display: flex;
+    align-items: center;
+    gap: 12px;
+    background-color: #F0F0F0;
+    padding: 12px;
+    border-radius: 62px;
+}
+ 
+.input::placeholder{
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 21.6px;
+    text-align: left;
+    color: #00000057; 
+    background-color: #F0F0F0;
+}
+.input{
+    outline: none;
+    border: none;
+}
+.nav__icons{
+    display: flex;
+    gap: 14px;
+}
+.hero{
+    padding:24px;
+}
+.list__img{
+    text-align: center;
+    margin-left: 10px;
+}
+
+
+ 
