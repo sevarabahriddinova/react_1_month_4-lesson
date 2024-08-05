@@ -4,8 +4,9 @@ import search from "../../assets/poisk.svg"
 import corzinka from "../../assets/corzinka.svg"
 import  icons from "../../assets/icons.svg"
 import  strelka from "../../assets/strelka.svg"
-import "./Hero.css"
-const Hero = () => {
+ import "./Hero.css"
+ 
+const Hero = () => { 
   return (
     <div className='hero'>
         <div className='container'>
@@ -30,8 +31,10 @@ const Hero = () => {
                          </div>
                 </div>
             </div>
-        </div>
+         </div>
     </div>
+
+
 
     )
 }
