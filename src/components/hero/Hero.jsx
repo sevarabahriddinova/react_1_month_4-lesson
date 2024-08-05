@@ -16,10 +16,10 @@ const Hero = () => {
                         <img src={logo} alt="" />
                     </div>
                         <ul className='nav__list'>
-                            <li className='list__title'><a className='list__style' href="">Shop</a> <img className='list__img' src={strelka} alt="" /></li>
-                            <li className='list__title'><a className='list__style' href="">On Sale</a></li>
-                            <li className='list__title'><a className='list__style' href="">New Arrivals</a></li>
-                            <li className='list__title'><a className='list__style' href="">Brands</a></li>
+                            <li className='list__title'><a className='list__style' href="#">Shop</a> <img className='list__img' src={strelka} alt="" /></li>
+                            <li className='list__title'><a className='list__style' href="#">On Sale</a></li>
+                            <li className='list__title'><a className='list__style' href="#">New Arrivals</a></li>
+                            <li className='list__title'><a className='list__style' href="http://localhost:5173/about">about</a></li>
                         </ul>
                         <div className='poisk__wrapper'>
                             <img src={search} alt=""/>
